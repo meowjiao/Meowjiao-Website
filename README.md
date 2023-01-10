@@ -7,5 +7,4 @@ Typecho那个我拿来日常写文章,Hexo那个是在虚拟主机去世的时�
 
 ~~~咋感觉还是一堆废话~~~
 
-Copyright ©2023 Meowjiao
 Meowjiao321@outlook.com
