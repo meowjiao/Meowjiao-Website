@@ -8,4 +8,4 @@ Typecho那个我拿来日常写文章,Hexo那个是在虚拟主机去世的时�
 
 ~~咋感觉还是一堆废话~~
 
-Meowjiao321@outlook.com
+[Meowjiao321@outlook.com](mailto:Meowjiao321@outlook.com)
