@@ -4,6 +4,3 @@
 ~~咋感觉是一堆废话~~
 
 Meowjiao321@outlook.com
-许可协议:
-川合堂许可协议-01  ver.1.0
-详见license.txt
